@@ -1,0 +1,6 @@
+.slid{
+  width: 14%;
+  min-height: 800px;
+  border: 1px solid red;
+  float: left;
+}
